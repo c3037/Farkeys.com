@@ -1,0 +1,1 @@
+<?require_once( __DIR__.'/text1.php' );?>

@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule index\.php$ /int/email-to-id [R=301,L]

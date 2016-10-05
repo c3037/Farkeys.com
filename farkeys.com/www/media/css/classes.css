@@ -1,0 +1,106 @@
+.place-center{
+    margin:0 auto !important;
+}
+.height90{
+    height: 90px !important;
+}
+.lineheight90{
+    line-height: 90px !important;
+}
+.height100{
+    height: 100px !important;
+}
+.lineheight100{
+    line-height: 100px !important;
+}
+.mess1{
+    margin-bottom: 5px;
+    line-height: normal;
+}
+#logo{
+    margin: 20px 0px 15px 10px !important;
+}
+.cont{
+    margin-bottom: 10px;
+}
+#left{
+    float:left;
+    margin-right:20px;
+    width: 570px;
+}
+#right{
+    float:left;
+    width: 347px;
+}
+.clear{
+    clear: both;
+}
+#right ul{
+    margin: 0;
+}
+#right ul li{
+    width: 347px;
+}
+.data{
+    color: #000 !important; 
+}
+#footer{
+    margin-top:15px;
+}
+.icon1{
+    top:-1px;
+}
+.text1{
+    top:-3px;
+}
+.upper{
+    text-transform: uppercase !important;
+}
+#footer .fg-color-blueDark:hover{
+    color: #4490FF !important;
+}
+#advert .fg-color-orange:hover{
+    color: #FFC40D !important;
+}
+.errors{
+    position: relative;
+}
+#cookieWarning{
+    display: none;
+}
+.padding10-20{
+    padding: 10px 20px;
+}
+.notice{
+    margin-bottom: 15px;
+}
+.top20
+{
+    padding-top: 20px !important;
+}
+.button20, .bottom20{
+    margin: 0 0 20px 0;
+}
+.m-top20{
+    margin-top: 20px;
+}
+.cancel
+{
+    top: -5px;
+}
+.top5
+{
+    margin-top: 5px;
+}
+.top25
+{
+    padding-top: 25px !important;
+}
+.top30
+{
+    padding-top: 30px !important;
+}
+.top35
+{
+    padding-top: 35px !important;
+}

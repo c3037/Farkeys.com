@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule index\.php$ /int/confirm [R=301,L]
